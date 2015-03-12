@@ -37,7 +37,7 @@
     "watchify": "^1.0.1"
   },
   "name": "seed-project-angular",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Core projet node.js and angularJS",
   "main": "gulpfile.js",
   "scripts": {

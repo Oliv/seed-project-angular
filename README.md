@@ -36,6 +36,10 @@ How to
 ----------
 
 Copy Source files in a new folder.
+
+Run npm install -g gulp
+Run npm install -g bower
+
 Run npm install in project directory.
 Run bower install in project directory.
 
